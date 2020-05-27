@@ -1,8 +1,8 @@
 ---
-title: "FokaBot Commands"
+title: "RealistikBot Commands"
 old_id: 4
 ---
-These are the commands supported by FokaBot, our chat bot.  
+These are the commands supported by RealistikBot, our chat bot.  
 
 ### General commands
 - `!roll` - Returns a random number from 0 to 100  
@@ -24,7 +24,7 @@ These are the commands supported by FokaBot, our chat bot.
 - `!faq status`  
 
 ### Tillerino-like commands
-Fokabot has some commands similar to Tillerino. Those commands work only if you send them to Fokabot through a PM. Remember that PP system has been implemented only on osu!standard and osu!mania. The bot doesn't support beatmaps recommendations at the moment, that functionality wil come later, hopefully.
+RealistikBot has some commands similar to Tillerino. Those commands work only if you send them to RealistikBot through a PM. Remember that PP system has been implemented only on osu!standard and osu!mania. The bot doesn't support beatmaps recommendations at the moment, that functionality wil come later, hopefully.
 
 - `/np` - Show PP for the current playing song  (only if is a osu! standard song)  
 - `!last` - Show info (and gained PP, if it was an osu! standard score) about the last submitted score  
